@@ -1,4 +1,4 @@
-package com.example.ervinpepic.funmeeting_basket
+package com.example.ervinpepic.funmeeting_basket.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

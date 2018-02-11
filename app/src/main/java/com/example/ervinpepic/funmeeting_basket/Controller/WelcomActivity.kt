@@ -1,8 +1,8 @@
-package com.example.ervinpepic.funmeeting_basket
+package com.example.ervinpepic.funmeeting_basket.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.ervinpepic.funmeeting_basket.R
 import kotlinx.android.synthetic.main.activity_welcom.*
 
 class WelcomActivity : BaseActivity() {
